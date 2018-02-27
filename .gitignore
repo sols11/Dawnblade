@@ -3,7 +3,9 @@
 /[Oo]bj/
 /[Bb]uild/
 /[Bb]uilds/
-/GameAsset/
+/Assets/GameAsset/
+/Assets/Plugins/
+/Assets/Standard Assets/
 /Assets/AssetStoreTools*
 
 # Visual Studio 2015 cache directory
