@@ -1,0 +1,17 @@
+﻿[
+    {
+        "TaskName": "讨伐石巨人",
+        "TaskPlace": "神庙",
+        "TaskAward": 100
+    },
+    {
+        "TaskName": "讨伐大眼怪",
+        "TaskPlace": "竞技场",
+        "TaskAward": 100
+    },
+    {
+        "TaskName": "讨伐巨斧将军",
+        "TaskPlace": "圣战之山",
+        "TaskAward": 100
+    }
+]
